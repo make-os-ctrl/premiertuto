@@ -1,2 +1,4 @@
+nano premier_fichier.sh
 echo "mon permier tuto"
-
+chmod +x premier_fichier
+./premier_fihicher
